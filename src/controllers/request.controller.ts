@@ -38,3 +38,5 @@ const createRequest = async (req: Request, res: Response) => {
     });
   }
 };
+
+export { createRequest };
